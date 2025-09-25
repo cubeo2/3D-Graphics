@@ -142,7 +142,6 @@ public class TextureDrawing : MonoBehaviour
 
         for (int i = 0; i <= 4; i += 2)
         {
-
             int Xi = coordinate[i];
             int Yi = coordinate[i + 1];
             int Xf = 0;
